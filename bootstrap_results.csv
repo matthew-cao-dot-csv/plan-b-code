@@ -1,0 +1,223 @@
+"","Panel","Combined_Sample_Size","Method","Power"
+"1","a",150,"Logistic Regression, 7-Day PPA",0.02
+"2","a",200,"Logistic Regression, 7-Day PPA",0.06
+"3","a",250,"Logistic Regression, 7-Day PPA",0.19
+"4","a",300,"Logistic Regression, 7-Day PPA",0.33
+"5","a",350,"Logistic Regression, 7-Day PPA",0.43
+"6","a",400,"Logistic Regression, 7-Day PPA",0.52
+"7","a",450,"Logistic Regression, 7-Day PPA",0.62
+"8","a",500,"Logistic Regression, 7-Day PPA",0.68
+"9","a",550,"Logistic Regression, 7-Day PPA",0.75
+"10","a",600,"Logistic Regression, 7-Day PPA",0.8
+"11","a",650,"Logistic Regression, 7-Day PPA",0.84
+"12","a",700,"Logistic Regression, 7-Day PPA",0.86
+"13","a",150,"Andersen-Gill Model, Recurrent Event",0.9
+"14","a",200,"Andersen-Gill Model, Recurrent Event",0.94
+"15","a",250,"Andersen-Gill Model, Recurrent Event",0.97
+"16","a",300,"Andersen-Gill Model, Recurrent Event",0.99
+"17","a",350,"Andersen-Gill Model, Recurrent Event",1
+"18","a",400,"Andersen-Gill Model, Recurrent Event",1
+"19","a",450,"Andersen-Gill Model, Recurrent Event",1
+"20","a",500,"Andersen-Gill Model, Recurrent Event",1
+"21","a",550,"Andersen-Gill Model, Recurrent Event",1
+"22","a",600,"Andersen-Gill Model, Recurrent Event",1
+"23","a",650,"Andersen-Gill Model, Recurrent Event",1
+"24","a",700,"Andersen-Gill Model, Recurrent Event",1
+"25","a",150,"Logistic Regression, Any Cigarette Free Days",0.22
+"26","a",200,"Logistic Regression, Any Cigarette Free Days",0.29
+"27","a",250,"Logistic Regression, Any Cigarette Free Days",0.32
+"28","a",300,"Logistic Regression, Any Cigarette Free Days",0.37
+"29","a",350,"Logistic Regression, Any Cigarette Free Days",0.41
+"30","a",400,"Logistic Regression, Any Cigarette Free Days",0.47
+"31","a",450,"Logistic Regression, Any Cigarette Free Days",0.54
+"32","a",500,"Logistic Regression, Any Cigarette Free Days",0.57
+"33","a",550,"Logistic Regression, Any Cigarette Free Days",0.61
+"34","a",600,"Logistic Regression, Any Cigarette Free Days",0.64
+"35","a",650,"Logistic Regression, Any Cigarette Free Days",0.68
+"36","a",700,"Logistic Regression, Any Cigarette Free Days",0.71
+"37","a",150,"Stratified Cox Regression, Time-to-Event",0.47
+"38","a",200,"Stratified Cox Regression, Time-to-Event",0.54
+"39","a",250,"Stratified Cox Regression, Time-to-Event",0.7
+"40","a",300,"Stratified Cox Regression, Time-to-Event",0.76
+"41","a",350,"Stratified Cox Regression, Time-to-Event",0.83
+"42","a",400,"Stratified Cox Regression, Time-to-Event",0.9
+"43","a",450,"Stratified Cox Regression, Time-to-Event",0.92
+"44","a",500,"Stratified Cox Regression, Time-to-Event",0.94
+"45","a",550,"Stratified Cox Regression, Time-to-Event",0.96
+"46","a",600,"Stratified Cox Regression, Time-to-Event",0.98
+"47","a",650,"Stratified Cox Regression, Time-to-Event",0.98
+"48","a",700,"Stratified Cox Regression, Time-to-Event",0.99
+"49","a",150,"Negative Binomial, Number of Cigarette Free Days",0.48
+"50","a",200,"Negative Binomial, Number of Cigarette Free Days",0.54
+"51","a",250,"Negative Binomial, Number of Cigarette Free Days",0.62
+"52","a",300,"Negative Binomial, Number of Cigarette Free Days",0.67
+"53","a",350,"Negative Binomial, Number of Cigarette Free Days",0.7
+"54","a",400,"Negative Binomial, Number of Cigarette Free Days",0.74
+"55","a",450,"Negative Binomial, Number of Cigarette Free Days",0.81
+"56","a",500,"Negative Binomial, Number of Cigarette Free Days",0.82
+"57","a",550,"Negative Binomial, Number of Cigarette Free Days",0.85
+"58","a",600,"Negative Binomial, Number of Cigarette Free Days",0.88
+"59","a",650,"Negative Binomial, Number of Cigarette Free Days",0.9
+"60","a",700,"Negative Binomial, Number of Cigarette Free Days",0.92
+"61","b",150,"Logistic Regression, 7-Day PPA",0
+"62","b",200,"Logistic Regression, 7-Day PPA",0
+"63","b",250,"Logistic Regression, 7-Day PPA",0
+"64","b",300,"Logistic Regression, 7-Day PPA",0.01
+"65","b",350,"Logistic Regression, 7-Day PPA",0.02
+"66","b",400,"Logistic Regression, 7-Day PPA",0.02
+"67","b",450,"Logistic Regression, 7-Day PPA",0.03
+"68","b",500,"Logistic Regression, 7-Day PPA",0.04
+"69","b",550,"Logistic Regression, 7-Day PPA",0.04
+"70","b",600,"Logistic Regression, 7-Day PPA",0.05
+"71","b",650,"Logistic Regression, 7-Day PPA",0.06
+"72","b",700,"Logistic Regression, 7-Day PPA",0.06
+"73","b",150,"Andersen-Gill Model, Recurrent Event",0.16
+"74","b",200,"Andersen-Gill Model, Recurrent Event",0.17
+"75","b",250,"Andersen-Gill Model, Recurrent Event",0.21
+"76","b",300,"Andersen-Gill Model, Recurrent Event",0.19
+"77","b",350,"Andersen-Gill Model, Recurrent Event",0.22
+"78","b",400,"Andersen-Gill Model, Recurrent Event",0.22
+"79","b",450,"Andersen-Gill Model, Recurrent Event",0.25
+"80","b",500,"Andersen-Gill Model, Recurrent Event",0.25
+"81","b",550,"Andersen-Gill Model, Recurrent Event",0.27
+"82","b",600,"Andersen-Gill Model, Recurrent Event",0.3
+"83","b",650,"Andersen-Gill Model, Recurrent Event",0.33
+"84","b",700,"Andersen-Gill Model, Recurrent Event",0.28
+"85","b",150,"Logistic Regression, Any Cigarette Free Days",0.06
+"86","b",200,"Logistic Regression, Any Cigarette Free Days",0.08
+"87","b",250,"Logistic Regression, Any Cigarette Free Days",0.1
+"88","b",300,"Logistic Regression, Any Cigarette Free Days",0.1
+"89","b",350,"Logistic Regression, Any Cigarette Free Days",0.12
+"90","b",400,"Logistic Regression, Any Cigarette Free Days",0.13
+"91","b",450,"Logistic Regression, Any Cigarette Free Days",0.14
+"92","b",500,"Logistic Regression, Any Cigarette Free Days",0.15
+"93","b",550,"Logistic Regression, Any Cigarette Free Days",0.16
+"94","b",600,"Logistic Regression, Any Cigarette Free Days",0.17
+"95","b",650,"Logistic Regression, Any Cigarette Free Days",0.18
+"96","b",700,"Logistic Regression, Any Cigarette Free Days",0.19
+"97","b",150,"Stratified Cox Regression, Time-to-Event",0.1
+"98","b",200,"Stratified Cox Regression, Time-to-Event",0.12
+"99","b",250,"Stratified Cox Regression, Time-to-Event",0.14
+"100","b",300,"Stratified Cox Regression, Time-to-Event",0.14
+"101","b",350,"Stratified Cox Regression, Time-to-Event",0.16
+"102","b",400,"Stratified Cox Regression, Time-to-Event",0.17
+"103","b",450,"Stratified Cox Regression, Time-to-Event",0.18
+"104","b",500,"Stratified Cox Regression, Time-to-Event",0.2
+"105","b",550,"Stratified Cox Regression, Time-to-Event",0.18
+"106","b",600,"Stratified Cox Regression, Time-to-Event",0.22
+"107","b",650,"Stratified Cox Regression, Time-to-Event",0.27
+"108","b",700,"Stratified Cox Regression, Time-to-Event",0.29
+"109","b",150,"Negative Binomial, Number of Cigarette Free Days",0.2
+"110","b",200,"Negative Binomial, Number of Cigarette Free Days",0.17
+"111","b",250,"Negative Binomial, Number of Cigarette Free Days",0.18
+"112","b",300,"Negative Binomial, Number of Cigarette Free Days",0.16
+"113","b",350,"Negative Binomial, Number of Cigarette Free Days",0.15
+"114","b",400,"Negative Binomial, Number of Cigarette Free Days",0.14
+"115","b",450,"Negative Binomial, Number of Cigarette Free Days",0.14
+"116","b",500,"Negative Binomial, Number of Cigarette Free Days",0.13
+"117","b",550,"Negative Binomial, Number of Cigarette Free Days",0.12
+"118","b",600,"Negative Binomial, Number of Cigarette Free Days",0.11
+"119","b",650,"Negative Binomial, Number of Cigarette Free Days",0.12
+"120","b",700,"Negative Binomial, Number of Cigarette Free Days",0.12
+"121","c",200,"Logistic Regression, 7-Day PPA",0.2
+"122","c",264,"Logistic Regression, 7-Day PPA",0.31
+"123","c",327,"Logistic Regression, 7-Day PPA",0.39
+"124","c",391,"Logistic Regression, 7-Day PPA",0.5
+"125","c",455,"Logistic Regression, 7-Day PPA",0.56
+"126","c",518,"Logistic Regression, 7-Day PPA",0.62
+"127","c",582,"Logistic Regression, 7-Day PPA",0.68
+"128","c",645,"Logistic Regression, 7-Day PPA",0.71
+"129","c",709,"Logistic Regression, 7-Day PPA",0.75
+"130","c",773,"Logistic Regression, 7-Day PPA",0.78
+"131","c",836,"Logistic Regression, 7-Day PPA",0.82
+"132","c",900,"Logistic Regression, 7-Day PPA",0.84
+"133","c",200,"Andersen-Gill Model, Recurrent Event",0.98
+"134","c",264,"Andersen-Gill Model, Recurrent Event",0.99
+"135","c",327,"Andersen-Gill Model, Recurrent Event",1
+"136","c",391,"Andersen-Gill Model, Recurrent Event",1
+"137","c",455,"Andersen-Gill Model, Recurrent Event",1
+"138","c",518,"Andersen-Gill Model, Recurrent Event",1
+"139","c",582,"Andersen-Gill Model, Recurrent Event",1
+"140","c",645,"Andersen-Gill Model, Recurrent Event",1
+"141","c",709,"Andersen-Gill Model, Recurrent Event",1
+"142","c",773,"Andersen-Gill Model, Recurrent Event",1
+"143","c",836,"Andersen-Gill Model, Recurrent Event",1
+"144","c",900,"Andersen-Gill Model, Recurrent Event",1
+"145","c",200,"Logistic Regression, Any Cigarette Free Days",0.2
+"146","c",264,"Logistic Regression, Any Cigarette Free Days",0.26
+"147","c",327,"Logistic Regression, Any Cigarette Free Days",0.29
+"148","c",391,"Logistic Regression, Any Cigarette Free Days",0.32
+"149","c",455,"Logistic Regression, Any Cigarette Free Days",0.39
+"150","c",518,"Logistic Regression, Any Cigarette Free Days",0.4
+"151","c",582,"Logistic Regression, Any Cigarette Free Days",0.46
+"152","c",645,"Logistic Regression, Any Cigarette Free Days",0.52
+"153","c",709,"Logistic Regression, Any Cigarette Free Days",0.54
+"154","c",773,"Logistic Regression, Any Cigarette Free Days",0.58
+"155","c",836,"Logistic Regression, Any Cigarette Free Days",0.62
+"156","c",900,"Logistic Regression, Any Cigarette Free Days",0.65
+"157","c",200,"Stratified Cox Regression, Time-to-Event",0.36
+"158","c",264,"Stratified Cox Regression, Time-to-Event",0.46
+"159","c",327,"Stratified Cox Regression, Time-to-Event",0.56
+"160","c",391,"Stratified Cox Regression, Time-to-Event",0.64
+"161","c",455,"Stratified Cox Regression, Time-to-Event",0.7
+"162","c",518,"Stratified Cox Regression, Time-to-Event",0.75
+"163","c",582,"Stratified Cox Regression, Time-to-Event",0.77
+"164","c",645,"Stratified Cox Regression, Time-to-Event",0.84
+"165","c",709,"Stratified Cox Regression, Time-to-Event",0.88
+"166","c",773,"Stratified Cox Regression, Time-to-Event",0.88
+"167","c",836,"Stratified Cox Regression, Time-to-Event",0.91
+"168","c",900,"Stratified Cox Regression, Time-to-Event",0.93
+"169","c",200,"Negative Binomial, Number of Cigarette Free Days",0.81
+"170","c",264,"Negative Binomial, Number of Cigarette Free Days",0.9
+"171","c",327,"Negative Binomial, Number of Cigarette Free Days",0.96
+"172","c",391,"Negative Binomial, Number of Cigarette Free Days",0.97
+"173","c",455,"Negative Binomial, Number of Cigarette Free Days",0.98
+"174","c",518,"Negative Binomial, Number of Cigarette Free Days",0.99
+"175","c",582,"Negative Binomial, Number of Cigarette Free Days",0.99
+"176","c",645,"Negative Binomial, Number of Cigarette Free Days",1
+"177","c",709,"Negative Binomial, Number of Cigarette Free Days",1
+"178","c",773,"Negative Binomial, Number of Cigarette Free Days",1
+"179","c",836,"Negative Binomial, Number of Cigarette Free Days",1
+"180","c",900,"Negative Binomial, Number of Cigarette Free Days",1
+"181","d",150,NA,1
+"182","d",150,"Logistic Regression, 7-Day PPA",0.677
+"183","d",150,"Logistic Regression, Any Cigarette Free Days",0.877
+"184","d",150,"Negative Binomial, Number of Cigarette Free Days",0.921
+"185","d",150,"Andersen-Gill Model, Recurrent Event",0.98
+"186","d",150,"Stratified Cox Regression, Time-to-Event",0.902
+"187","d",200,NA,2
+"188","d",200,"Logistic Regression, 7-Day PPA",0.806
+"189","d",200,"Logistic Regression, Any Cigarette Free Days",0.951
+"190","d",200,"Negative Binomial, Number of Cigarette Free Days",0.966
+"191","d",200,"Andersen-Gill Model, Recurrent Event",0.989
+"192","d",200,"Stratified Cox Regression, Time-to-Event",0.967
+"193","d",250,NA,3
+"194","d",250,"Logistic Regression, 7-Day PPA",0.881
+"195","d",250,"Logistic Regression, Any Cigarette Free Days",0.984
+"196","d",250,"Negative Binomial, Number of Cigarette Free Days",0.988
+"197","d",250,"Andersen-Gill Model, Recurrent Event",0.999
+"198","d",250,"Stratified Cox Regression, Time-to-Event",0.991
+"199","d",300,NA,4
+"200","d",300,"Logistic Regression, 7-Day PPA",0.946
+"201","d",300,"Logistic Regression, Any Cigarette Free Days",0.997
+"202","d",300,"Negative Binomial, Number of Cigarette Free Days",0.998
+"203","d",300,"Andersen-Gill Model, Recurrent Event",1
+"204","d",300,"Stratified Cox Regression, Time-to-Event",0.991
+"205","d",350,NA,5
+"206","d",350,"Logistic Regression, 7-Day PPA",0.964
+"207","d",350,"Logistic Regression, Any Cigarette Free Days",0.994
+"208","d",350,"Negative Binomial, Number of Cigarette Free Days",0.999
+"209","d",350,"Andersen-Gill Model, Recurrent Event",1
+"210","d",350,"Stratified Cox Regression, Time-to-Event",1
+"211","d",400,NA,6
+"212","d",400,"Logistic Regression, 7-Day PPA",0.98
+"213","d",400,"Logistic Regression, Any Cigarette Free Days",0.999
+"214","d",400,"Negative Binomial, Number of Cigarette Free Days",1
+"215","d",400,"Andersen-Gill Model, Recurrent Event",1
+"216","d",400,"Stratified Cox Regression, Time-to-Event",1
+"217","d",438,NA,7
+"218","d",438,"Logistic Regression, 7-Day PPA",0.991
+"219","d",438,"Logistic Regression, Any Cigarette Free Days",1
+"220","d",438,"Negative Binomial, Number of Cigarette Free Days",1
+"221","d",438,"Andersen-Gill Model, Recurrent Event",1
+"222","d",438,"Stratified Cox Regression, Time-to-Event",1
